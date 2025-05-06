@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [@JXPROs](https://github.com/JXPROs)
+# 👋 Hi, I’m [@Fetra ](https://github.com/JXPROs)
 
 ## 👀 I’m interested in
 - Software development
@@ -7,7 +7,7 @@
 - Open source projects
 
 ## 🌱 I’m currently learning
-- Advanced React and TypeScript
+- Advanced React and php 
 - Machine learning algorithms
 - Cloud services and deployment
 
